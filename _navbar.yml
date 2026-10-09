@@ -1,4 +1,4 @@
-name: "THEE2025"
+name: "THEE2026"
 title: "Reproducibility In Action"
 type: inverse
 left:
@@ -6,10 +6,8 @@ left:
     href: ./reproducibility_half.html
   - text: "Git(Hub)"
     href: ./github_half.html
-  - text: "About THEE Research Practical 2025"
+  - text: "About THEE Research Practical"
     href: ./aboutTHEE.html
-  - text: "About me"
-    href: https://peischllab.github.io/people.html#ana-hermina-ghenu
 right:
   - icon: fa-github fa-lg
-    href: https://github.com/EvoNerd
+    href: https://github.com/ayalopjulio

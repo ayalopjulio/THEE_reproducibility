@@ -118,7 +118,7 @@ Git can be run via command line ([see tutorial here](https://swcarpentry.github.
 ![](./figures/github_signin2.png){width=25%}
 </p>
 
-* Download this GitHub repository to your local computer: [EvoNerd/THEE_2025reproducibility](https://github.com/EvoNerd/THEE_2025reproducibility)\
+* Download this GitHub repository to your local computer: [ayalopjulio/THEE_reproducibility](https://github.com/ayalopjulio/THEE_reproducibility)\
 **Add ➜ Clone repository...     ➜    URL**
 
 <p align="center">
@@ -256,7 +256,7 @@ You can also just **fetch**: ask Git to check if there are any new commits on th
 
 ## Exercise 4. Push & Pull
 
-* Send Hermina your GitHub username or email. You should soon receive an email invite to collaborate on the repository.
+* Send Julio your GitHub username or email. You should soon receive an email invite to collaborate on the repository.
 
 <p align="center">
 ![](./figures/github_invite_to_collab.png){width=60%}
@@ -376,7 +376,7 @@ You can ignore these file types by going to GitHub Desktop:  **Repository   ➜ 
   - we experimented with how GitHub helps backups & collaboration
   
   - GitHub can also be used to host & distribute projects\
-  *e.g., [this website is hosted on GitHub](https://github.com/EvoNerd/THEE_2025reproducibility) on the branch called "website"*
+  *e.g., [this website is hosted on GitHub](https://github.com/ayalopjulio/THEE_reproducibility) on the branch called "website"*
 
 <div style="margin-top: 40vh;"></div>
 

@@ -1,23 +1,26 @@
 ---
 title: "About THEE Research Practical"
-#author: "Ana-Hermina Ghenu"
-#date: "2025-10-09"
+#author: "Ana-Hermina Ghenu, Modified by Julio Ayala-López"
+#date: "2026-10-09"
 output: 
   html_document:
     toc: FALSE
 ---
 
-The reproducibility module housed on this website is part of a research practical (i.e., a 3-week block course) on theoretical ecology and evolution that was offered at the University of Bern in October 2025 (465990-HS2025-0-Theoretical ecology and evolution, research practical).
+The reproducibility module housed on this website is part of a research practical (i.e., a 3-week block course) on theoretical ecology and evolution that was offered at the University of Bern in October 2026 (465990-HS2025-0-Theoretical ecology and evolution, research practical).
 \
 \
 \
 
 ## Relevant Links
 
-GitHub repository for this reproducibility module: [click here to go to Hermina's GitHub](https://github.com/EvoNerd/THEE_2025reproducibility)
+GitHub repository for this reproducibility module: [click here to go to the Github repo](https://github.com/ayalopjulio/THEE_reproducibility)
 
-GitHub repository for the entire Research Practical: [click here to go to the course GitHub](https://github.com/banklab/THEErp2024)
+
+GitHub repository for the entire Research Practical: [click here to go to the course GitHub](https://github.com/banklab/THEErp2026)
 
 **Official course content** on ILIAS: [click here to go to ilias](https://ilias.unibe.ch/ilias.php?baseClass=ilrepositorygui&ref_id=3372266)
 
 Here's a link to the course on the Division of Theoretical Ecology & Evolution's website at the **University of Bern**: [click here to go to courses by thee.iee.unibe.ch](https://www.thee.iee.unibe.ch/studies/courses/index_eng.html)
+
+This repository is a fork of the one developed by Anna Hermina Ghenu, [click here to go to Hermina's GitHub](https://github.com/EvoNerd/THEE_2025reproducibility).

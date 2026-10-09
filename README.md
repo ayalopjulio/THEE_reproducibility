@@ -1,6 +1,6 @@
 # THEE_2025reproducibility Website
 
-This branch hosts the [website used for the THEE reproducibility module.](https://evonerd.github.io/THEE_2025reproducibility/aboutTHEE.html)
+This branch hosts the [website used for the THEE reproducibility module.](https://ayalopjulio.github.io/THEE_reproducibility/aboutTHEE.html)
 
 *Note: the **main branch** is used during the module to train students on version control, efficient collaboration, and managing conflicts via Git(Hub).*
 
@@ -26,6 +26,6 @@ Building the website in RStudio automatically creates the files in the "docs" su
 
 # Contact
 
-This repository and its contents were developed and are maintained by Dr. Ana-Hermina Ghenu for Prof. Claudia Bank, Institute of Ecology & Evolution, University of Bern.
+This repository and its contents were developed and are maintained by Dr. Ana-Hermina Ghenu for Prof. Claudia Bank, Institute of Ecology & Evolution, University of Bern. Modifications done by Julio Ayala López.
 
-If you have any questions or want to contribute, please contact Hermina via their GitHub account (EvoNerd).
+If you have any questions or want to contribute, please contact Hermina via their GitHub account (EvoNerd), or Julio Ayala-López (ayalopjulio)
