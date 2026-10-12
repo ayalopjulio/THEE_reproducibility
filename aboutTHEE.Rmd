@@ -19,7 +19,7 @@ GitHub repository for this reproducibility module: [click here to go to the Gith
 
 GitHub repository for the entire Research Practical: [click here to go to the course GitHub](https://github.com/banklab/THEErp2026)
 
-**Official course content** on ILIAS: [click here to go to ilias](https://ilias.unibe.ch/ilias.php?baseClass=ilrepositorygui&ref_id=3372266)
+**Official course content** on ILIAS: [click here to go to ilias](https://ilias.unibe.ch/go/crs/3685379)
 
 Here's a link to the course on the Division of Theoretical Ecology & Evolution's website at the **University of Bern**: [click here to go to courses by thee.iee.unibe.ch](https://www.thee.iee.unibe.ch/studies/courses/index_eng.html)
 
