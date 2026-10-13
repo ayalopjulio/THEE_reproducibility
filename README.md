@@ -2,7 +2,7 @@
 
 This project was created by **Ana-Hermina Ghenu** for the reproducibility module of the Theoretical Ecology and Evolution research practical (Fall 2024).
 
-Updated by **Julio Ayala López** for the research practical on Fall 2026.
+Updated by **Julio Ayala López** for the research practical in Fall 2026.
 
 The live website for the reproducibility module is available at [this link.](https://ayalopjulio.github.io/THEE_reproducibility)
 
