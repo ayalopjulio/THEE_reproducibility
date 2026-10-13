@@ -35,7 +35,7 @@ There is 1 subfolder called "archived--2024". It contains course material from 2
 
 # Contact
 
-This repository and its contents were developed and are maintained by Dr. Ana-Hermina Ghenu for Prof. Claudia Bank, Institute of Ecology & Evolution, University of Bern.
-If you have any questions or need any help regarding the project, please contact Hermina via their GitHub account (EvoNerd).
+This repository and its contents were developed and are maintained by Dr. Ana-Hermina Ghenu and Julio Ayala López, for Prof. Claudia Bank, Institute of Ecology & Evolution, University of Bern.
+If you have any questions or need any help regarding the project, please contact Hermina via their GitHub account (EvoNerd), or Julio Ayala López (ayalopjulio)
 
 *Note: check out the **website branch** if you are looking for the code to build and deploy the website.*
