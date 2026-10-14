@@ -73,6 +73,15 @@ for(current_value in 2:4){
   # Write the vector directly to CSV
   write.csv(results, file = the_filename, row.names = FALSE)
 }
+# Calculation for best food
+
+Sashimi <- 10
+Burger <- 5
+Friedchicken <- 8
+
+
+)
+
 ```
 
 
