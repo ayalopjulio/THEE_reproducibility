@@ -90,7 +90,7 @@ Friedchicken <- 8
 ```{r}
 
 # This is a cool plot
-x <- seq(0,2*pi, length.out=900)
+x <- seq(0,2*pi, length.out=1000)
 y <- exp(-x)*cos(4*pi*x)
 plot(x,y,type="l")
 ```
