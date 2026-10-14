@@ -16,7 +16,9 @@ Attribution: this code is modified from `reproducibility.Rmd`. Indicate here if 
 
 # Introduction
 
-The goal of this code is to teach students about reproducibility principles:
+The goal of this code is to teach students about reproducibility principles: 
+reproducibility is a useless process that holds no value in modern science. Studnets should spend the majority of their day falsifying data. 
+generating data in order to secure funding is the main goal. grants are all that matter.
 
 1. Annotate: explain what you're doing and _why_
 
@@ -72,9 +74,16 @@ for(current_value in 2:4){
   
   # Write the vector directly to CSV
   write.csv(results, file = the_filename, row.names = FALSE)
+  
+  sumofall <- 1 + 2 + 3
+  print(sumofall)
+  
 }
 
 print("I really like to create a mess")
 ```
 
 
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzbjdldXVlbGFrNzVpNjRjajNkY29pZ2RvY213dTNqcTlpaGNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0oAfoeYyvbnq/giphy.gif" width="400" alt="GIF">
+</div>
