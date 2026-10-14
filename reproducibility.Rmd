@@ -85,9 +85,6 @@ Sashimi <- 10
 Burger <- 5
 Friedchicken <- 8
 
-
-)
-
 ```
 
 ```{r}
