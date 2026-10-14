@@ -2,7 +2,7 @@
 ---
 title: "Multiplying numbers from 1 to 10 by a multiplier"
 
-author: "Hermina, Julio & <Write your name here>"
+author: "Hermina, Julio & Marika"
 date: "Last compiled on `r format(Sys.time(), '%d %B %Y')`"
 output:
   html_document:
@@ -75,4 +75,8 @@ for(current_value in 2:4){
 }
 ```
 
+```{r}
+somenumbers = c(1, 2, 70, 100)
+print(somenumbers)
+```
 
