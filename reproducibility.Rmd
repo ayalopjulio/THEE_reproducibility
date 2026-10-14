@@ -74,7 +74,14 @@ for(current_value in 2:4){
   
   # Write the vector directly to CSV
   write.csv(results, file = the_filename, row.names = FALSE)
+  
+  sumofall <- 1 + 2 + 3
+  print(sumofall)
+  
 }
 ```
 
 
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzbjdldXVlbGFrNzVpNjRjajNkY29pZ2RvY213dTNqcTlpaGNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0oAfoeYyvbnq/giphy.gif" width="400" alt="GIF">
+</div>
