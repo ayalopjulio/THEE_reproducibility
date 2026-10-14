@@ -79,8 +79,12 @@ for(current_value in 2:4){
   print(sumofall)
   
 }
+# Calculation for best food
 
-print("I really like to create a mess")
+Sashimi <- 10
+Burger <- 5
+Friedchicken <- 8
+
 ```
 
 ```{r}
