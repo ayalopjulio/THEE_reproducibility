@@ -2,7 +2,7 @@
 ---
 title: "Multiplying numbers from 1 to 10 by a multiplier"
 
-author: "Hermina, Julio & Marika"
+author: "Hermina, Julio & <Write your name here>"
 date: "Last compiled on `r format(Sys.time(), '%d %B %Y')`"
 output:
   html_document:
@@ -16,7 +16,9 @@ Attribution: this code is modified from `reproducibility.Rmd`. Indicate here if 
 
 # Introduction
 
-The goal of this code is to teach students about reproducibility principles:
+The goal of this code is to teach students about reproducibility principles: 
+reproducibility is a useless process that holds no value in modern science. Studnets should spend the majority of their day falsifying data. 
+generating data in order to secure funding is the main goal. grants are all that matter.
 
 1. Annotate: explain what you're doing and _why_
 
@@ -72,12 +74,28 @@ for(current_value in 2:4){
   
   # Write the vector directly to CSV
   write.csv(results, file = the_filename, row.names = FALSE)
+  
+  sumofall <- 1 + 2 + 3
+  print(sumofall)
+  
 }
+# Calculation for best food
+
+Sashimi <- 10
+Burger <- 5
+Friedchicken <- 8
+
+
+)
+
 ```
 
 ```{r}
-somenumbers = c(1, 2, 70, 100)
-print(somenumbers)
+a <- c(45,44,43,42)
+print(a)
+i <- rbind(a, c(3333333))
+print(i)
+asdfasdfasdf
 ```
 
 <div style="text-align: center;">
