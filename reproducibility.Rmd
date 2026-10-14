@@ -83,6 +83,13 @@ for(current_value in 2:4){
 print("I really like to create a mess")
 ```
 
+```{r}
+a <- c(45,44,43,42)
+print(a)
+i <- rbind(a, c(3333333))
+print(i)
+asdfasdfasdf
+```
 
 <div style="text-align: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzbjdldXVlbGFrNzVpNjRjajNkY29pZ2RvY213dTNqcTlpaGNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0oAfoeYyvbnq/giphy.gif" width="400" alt="GIF">
