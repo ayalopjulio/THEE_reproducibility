@@ -80,3 +80,6 @@ somenumbers = c(1, 2, 70, 100)
 print(somenumbers)
 ```
 
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZzbjdldXVlbGFrNzVpNjRjajNkY29pZ2RvY213dTNqcTlpaGNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0oAfoeYyvbnq/giphy.gif" width="400" alt="GIF">
+</div>
