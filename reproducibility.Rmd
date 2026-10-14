@@ -73,6 +73,8 @@ for(current_value in 2:4){
   # Write the vector directly to CSV
   write.csv(results, file = the_filename, row.names = FALSE)
 }
+
+print("I really like to create a mess")
 ```
 
 
